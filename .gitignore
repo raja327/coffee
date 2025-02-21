@@ -1,0 +1,6 @@
+coffee-frontend/node_modules/
+coffee-house/node_modules/
+coffee-house/config.env
+
+logs/
+*.logs

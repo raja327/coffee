@@ -6,7 +6,7 @@ import { authApi } from "../features/auth/authApi";
 import storage from "redux-persist/lib/storage";
 import { persistReducer } from "redux-persist";
 import persistStore from "redux-persist/es/persistStore";
-import { searchApi } from "../features/searchapi";
+import { searchApi } from "../features/searchApi";
 
 // Persist config for auth
 const authPersistConfig = {

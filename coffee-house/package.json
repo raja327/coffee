@@ -13,7 +13,7 @@
   "description": "This is about selling coffee ,training and many more through online website",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon server.js"
+   "start": "node server.js"
   },
   "author": "Rajaram Neupane",
   "license": "ISC"
